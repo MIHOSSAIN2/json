@@ -70,13 +70,13 @@
     "location": "New York, NY, USA",
     "social_media": [
       {
-        "linkedin": "https://linkedin.com/in/janedoe",
+        "link": "https://linkedin.com/in/janedoe",
       },
       {
-         "twitter": "https://twitter.com/janedoe",
+         "link": "https://twitter.com/janedoe",
       },
       {
-        "facebook": "https://facebook.com/janedoe",
+        "link": "https://facebook.com/janedoe",
       }
       
       
