@@ -1,0 +1,77 @@
+{
+  "hero_section": {
+    "name": "Jane Doe",
+    "title": "Digital Marketing Specialist",
+    "description": "Helping brands grow their online presence through innovative digital marketing strategies.",
+    "background_image": "https://example.com/images/hero-background.jpg",
+    "cta_button": {
+      "text": "Hire Me",
+      "link": "https://example.com/contact"
+    }
+  },
+  "projects_showcase": [
+    {
+      "title": "Social Media Campaign for XYZ Corp",
+      "description": "Developed and executed a social media strategy that increased engagement by 150% over six months.",
+      "image": "https://example.com/images/project1.jpg",
+      "link": "https://example.com/projects/social-media-campaign"
+    },
+    {
+      "title": "SEO Optimization for ABC Inc.",
+      "description": "Implemented on-page and off-page SEO strategies that improved organic search traffic by 200%.",
+      "image": "https://example.com/images/project2.jpg",
+      "link": "https://example.com/projects/seo-optimization"
+    },
+    {
+      "title": "Content Marketing for DEF Ltd.",
+      "description": "Created a content marketing plan that increased lead generation by 35% through targeted blog posts and email newsletters.",
+      "image": "https://example.com/images/project3.jpg",
+      "link": "https://example.com/projects/content-marketing"
+    }
+  ],
+  "bio": {
+    "description": "I am a seasoned digital marketer with over 5 years of experience in developing and executing marketing strategies that drive growth and increase brand awareness. My expertise includes SEO, content marketing, social media management, and pay-per-click advertising."
+  },
+  "education": [
+    {
+      "degree": "Master of Business Administration (MBA)",
+      "institution": "University of Marketing",
+      "year": "2018"
+    },
+    {
+      "degree": "Bachelor of Science in Marketing",
+      "institution": "College of Business",
+      "year": "2015"
+    }
+  ],
+  "blog_items": [
+    {
+      "title": "Top 5 Digital Marketing Trends in 2024",
+      "date": "2024-07-20",
+      "summary": "A look at the top digital marketing trends that will dominate the industry in 2024.",
+      "link": "https://example.com/blog/digital-marketing-trends-2024"
+    },
+    {
+      "title": "How to Optimize Your Website for SEO in 2024",
+      "date": "2024-06-15",
+      "summary": "A comprehensive guide to optimizing your website for search engines in 2024.",
+      "link": "https://example.com/blog/seo-optimization-2024"
+    },
+    {
+      "title": "The Importance of Content Marketing in a Digital Strategy",
+      "date": "2024-05-10",
+      "summary": "An exploration of why content marketing is crucial for any successful digital marketing strategy.",
+      "link": "https://example.com/blog/content-marketing-strategy"
+    }
+  ],
+  "contact_info": {
+    "email": "janedoe@example.com",
+    "phone": "+1 234 567 8901",
+    "location": "New York, NY, USA",
+    "social_media": {
+      "linkedin": "https://linkedin.com/in/janedoe",
+      "twitter": "https://twitter.com/janedoe",
+      "facebook": "https://facebook.com/janedoe"
+    }
+  }
+}
