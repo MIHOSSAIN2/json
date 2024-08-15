@@ -68,10 +68,10 @@
     "email": "janedoe@example.com",
     "phone": "+1 234 567 8901",
     "location": "New York, NY, USA",
-    "social_media": {
+    "social_media": [
       "linkedin": "https://linkedin.com/in/janedoe",
       "twitter": "https://twitter.com/janedoe",
       "facebook": "https://facebook.com/janedoe"
-    }
+    ]
   }
 }
